@@ -9,11 +9,11 @@ https://github.com/user-attachments/assets/07752d90-b68a-4c85-b9d8-591c54c56b15
 
 - Ground pushing
   
-https://github.com/user-attachments/assets/841eca04-b902-4a6d-9418-51ad46cbd8e4
+https://github.com/user-attachments/assets/271bbf7c-2a8c-4526-a564-a5ee0835e0b8
 
 - Terrain painting
   
-https://github.com/user-attachments/assets/271bbf7c-2a8c-4526-a564-a5ee0835e0b8
+https://github.com/user-attachments/assets/841eca04-b902-4a6d-9418-51ad46cbd8e4
 
 - Calculation of soil weight
   
