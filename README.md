@@ -1,4 +1,4 @@
-# unity-runtime-terrain-modify
+# Runtime Terrain Modify
 
 Terrain modifications in runtime.
 Supports the following functions:
